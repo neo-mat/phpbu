@@ -19,7 +19,7 @@ class Xz extends Abstraction
      *
      * @var string
      */
-    protected $cmd = 'xz';
+    protected $cmd = 'xz -1';
 
     /**
      * Suffix for compressed files
